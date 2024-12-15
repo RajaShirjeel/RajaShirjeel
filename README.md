@@ -50,7 +50,11 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 ---
 
+![https://leetcode.com/u/rajashirjeel/](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+
 ⭐️ From [Raja Shirjeel](https://github.com/RajaShirjeel)
+
+
 
 
 
