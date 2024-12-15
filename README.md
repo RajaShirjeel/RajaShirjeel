@@ -26,7 +26,7 @@ I'm a passionate developer currently focused on enhancing my skills in web devel
   *Description:* An API created using Django and the Django REST framework.
 
 ### DSA Solutions
-- **LeetCode Solutions**: [My LeetCode Profile](https://leetcode.com/u/rajasarjais/)  
+- **LeetCode Solutions**: [My LeetCode Profile](https://leetcode.com/u/rajashirjeel/)  
   *Description:* A collection of my solutions to various LeetCode problems, focusing on optimizing code efficiency and readability.
 
 ## 🔧 Technologies & Tools
